@@ -19,8 +19,10 @@ There are no significant average temperature differences for June and December i
 
 Below are additional ideas to gather weather data for June and December:
 - An analysis of the precipitation data for June and December can be performed. December has the highest mean precipitation of 0.21 whereas June has the lowest mean precipitation of 0.13. This indicates a higher chance of rainfall during December.
+
 ![image](https://user-images.githubusercontent.com/76491891/115937058-e1635380-a464-11eb-9438-f8e5182e341b.png)   ![image](https://user-images.githubusercontent.com/76491891/115937075-eaecbb80-a464-11eb-81e4-a801fb03534b.png)
 
-- A histogram is used to visualize the trend of temperature analysis for Oahu during June and December. By grouping the data into 15 bins, a histogram can be plotted to show the frequency of temperature patterns. 
+- A histogram is used to visualize the trend of temperature analysis for Oahu during June and December. By grouping the data into 15 bins, a histogram can be plotted to show the frequency of temperature patterns.
+ 
 ![image](https://user-images.githubusercontent.com/76491891/115937114-06f05d00-a465-11eb-8991-9fb652b6ddd5.png)
 ![image](https://user-images.githubusercontent.com/76491891/115937128-11aaf200-a465-11eb-8bcc-99f7a459b4ef.png)
